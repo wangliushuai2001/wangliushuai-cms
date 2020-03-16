@@ -17,7 +17,7 @@ import com.wls.cms.service.UserService;
 @RequestMapping("admin")
 @Controller
 public class AdminController {
-      
+        //测试更新
 	  @Resource
 	  private ArticleService  articleService;
 	  @Resource
