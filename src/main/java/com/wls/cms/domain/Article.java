@@ -12,6 +12,7 @@ import java.util.Date;
  */
 public class Article implements Serializable{
     //测试提交
+	//测试提交22
 	 /**
 	 * @fieldName: serialVersionUID
 	 * @fieldType: long
