@@ -18,6 +18,7 @@ import com.wls.cms.service.UserService;
 @Controller
 public class AdminController {
         //测试更新
+	//测试更新2
 	  @Resource
 	  private ArticleService  articleService;
 	  @Resource
