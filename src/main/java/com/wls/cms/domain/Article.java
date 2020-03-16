@@ -11,7 +11,7 @@ import java.util.Date;
  * @date: 2020年3月3日 上午11:25:30
  */
 public class Article implements Serializable{
-  
+    //测试提交
 	 /**
 	 * @fieldName: serialVersionUID
 	 * @fieldType: long
